@@ -1,1 +1,20 @@
+body {
+    padding-top: 70px; /* Adjusted to accommodate the fixed navbar */
+}
+
+.navbar {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+.page-heading {
+    margin-top: 50px; /* Adjusted to provide space below the navbar */
+}
+
+.main-section {
+    background-color: #e6e6e6;
+    padding: 20px 0;
+}
+
+/* Add any additional styling as needed */
 
